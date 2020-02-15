@@ -1,0 +1,4 @@
+#CD Property File
+#Sat Aug 04 06:10:22 PDT 2018
+Red=|Red|Taylor Swifit|2012|Big Machine Records,LLC|$11.99|
+Bad=|Bad|Michael Jackson|1987|Epic/Legacy|$31.49|

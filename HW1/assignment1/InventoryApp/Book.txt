@@ -1,0 +1,4 @@
+#Book Property File
+#Sat Aug 04 06:04:16 PDT 2018
+Pride\ and\ Prejudice=|Pride and Prejudice|Jane Austen|4736|$4.99|
+The\ Catcher\ in\ the\ Rye=|The Catcher in the Rye|J.D. Salinger|1724|$19.99|
